@@ -21,9 +21,7 @@ Our work in participation to the [event in Torino](https://www.i3p.it/article/na
 | Bruno      | Mea       | zzz                 | -    | [@xxx](https://github.com/xxx) | @Bruno M |
 | Gloria     | Puppi     | Marketing           | -    | [@gloryp](https://github.com/gloryp) | @Gloria_Py     |
 
-TODO
-
-### Copyright License
+### Copyright and License
 
 spaceappschallenge-2019 is licensed under the MIT License - for details please see the `LICENSE` file.
 
