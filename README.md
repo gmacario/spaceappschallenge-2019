@@ -4,7 +4,9 @@
 
 Our work in participation to the [event in Torino](https://www.i3p.it/article/nasa-space-apps-challenge-torino).
 
-## The xxx Team Members
+## The Moebius Sail Team Members
+
+![Moebius Sail Team](images/2019-10-19-team.jpg)
 
 | Firstname  | Lastname   | Role                | Blog | GitHub_ID                            | Telegram_ID   |
 |------------|------------|---------------------|------|--------------------------------------|---------------|
