@@ -18,4 +18,10 @@ Nasa Space Apps Challenge 2019
 
 TODO
 
+### Copyright License
+
+spaceappschallenge-2019 is licensed under the MIT License - for details please see the `LICENSE` file.
+
+Copyright (C) 2019, [Gianpaolo Macario](http://gmacario.github.io/) and the other Team Members.
+
 <!-- EOF -->
