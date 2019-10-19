@@ -4,6 +4,10 @@
 
 Our work in participation to the [event in Torino](https://www.i3p.it/article/nasa-space-apps-challenge-torino).
 
+## The Pitch
+
+[Link to the slide deck](https://slides.com/gianpaolomacario/moebius-sail/fullscreen?token=NgdlLPBl)
+
 ## The Moebius Sail Team Members
 
 ![Moebius Sail Team](images/2019-10-19-team.jpg)
