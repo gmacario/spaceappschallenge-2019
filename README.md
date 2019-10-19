@@ -1,8 +1,6 @@
 # spaceappschallenge-2019
 
-[NASA International Space Apps Challenge 2019](https://www.spaceappschallenge.org/)
-
-Our work in participation to the [event in Torino](https://www.i3p.it/article/nasa-space-apps-challenge-torino).
+Our work in participation to the [NASA International Space Apps Challenge 2019 in Torino](https://www.i3p.it/article/nasa-space-apps-challenge-torino).
 
 ## The Pitch
 
@@ -24,7 +22,13 @@ Our work in participation to the [event in Torino](https://www.i3p.it/article/na
 | -          | -          | -                   | -    | -                              | - |
 | Gloria     | Puppi     | Marketing           | -    | [@gloryp](https://github.com/gloryp) | @Gloria_Py     |
 
-### Copyright and License
+## Other links
+
+* [NASA International Space Apps Challenge 2019](https://www.spaceappschallenge.org/)
+* [The Moebius Sail Team ad SpaceAppChallenge.org](https://2019.spaceappschallenge.org/challenges/our-moon/eeny-meeny-miney-sample/teams/moebius-sail/project)
+* [Join the Telegram Group](https://t.me/joinchat/CTVnjReaQF0oVPnUsCVS7g)
+
+## Copyright and License
 
 spaceappschallenge-2019 is licensed under the MIT License - for details please see the `LICENSE` file.
 
