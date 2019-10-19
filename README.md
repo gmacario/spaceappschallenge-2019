@@ -1,5 +1,8 @@
 # spaceappschallenge-2019
-Nasa Space Apps Challenge 2019
+
+[NASA International Space Apps Challenge 2019](https://www.spaceappschallenge.org/)
+
+Our work in participation to the [event in Torino](https://www.i3p.it/article/nasa-space-apps-challenge-torino).
 
 ## The xxx Team Members
 
