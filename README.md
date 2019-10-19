@@ -27,6 +27,7 @@ Our work in participation to the [NASA International Space Apps Challenge 2019 i
 * [NASA International Space Apps Challenge 2019](https://www.spaceappschallenge.org/)
 * [The Moebius Sail Team ad SpaceAppChallenge.org](https://2019.spaceappschallenge.org/challenges/our-moon/eeny-meeny-miney-sample/teams/moebius-sail/project)
 * [Join the Telegram Group](https://t.me/joinchat/CTVnjReaQF0oVPnUsCVS7g)
+* [Edit Deck: moebius-sail](https://slides.com/gianpaolomacario/moebius-sail/edit)
 
 ## Copyright and License
 
