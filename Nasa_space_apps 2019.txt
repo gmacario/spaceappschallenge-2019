@@ -1,0 +1,30 @@
+Nasa space apps 2019
+
+Team name: Moebius-Sail
+
+Team members:
+Carlo Di Costanzo
+Nicolo' Lombardo
+Gianpaolo Macario
+Gianfranco Poncini
+Valerio Sacchetto
+Riccardo Salgarella
+
+The proposal of our team is a space station inserted in an orbit including Earth and Moon. The station travels forth and back between  Earth and Moon achieving different purposes. The orbit is inspired to the 'free reentry trajectory' used for Apollo launches to the moon. The shape remembers a Bernoulli's lemniscate, or a Moebius strip. This orbit in the Earth-Moon system is not very stable, but this feature wwil be addressed next. The main purpose is transport precious  minerals from Moon to Earth, or transport building materials from Moon to Earth orbit for contruction in space, which will be less expensive than from the Earth.
+In this description five main task are been addressed:
+
+1) Building of space station
+2) Practical operation
+3) Orbit stabilisation
+4) Supplementary utilisations to improve payback
+5) Pods
+
+1) Building the space station
+Despite the purpose of building in space, the station has, at the beginning, to be built from scratch. The simplest way is to use existing technology verified by the Space Shuttle, with some modifications. The two main heritages are the solid rocket boosters (SRB) and liquid hydrogen engines. Both reusables for many and many launches. The proposed configuration is: the two SRB's are used as they are, in tho possible configurations, four segments (Shuttle) or five segments (Orion). The main body of the Shuttle is reduced to a small structure including liquid fuel engines, a cockpit for one or two pilots (if any) and small wings for glide during reentry, to be done immediately after the launch. After some succesful tests, cockpit can be removed and replaced by computer artificial intelligence. The external tank (ET) should instead remain in orbit to be used as a body for space station construction. Has to be completely re-designed compared to existing one, but is the less critical part. There nothing new in this, because already in the joint flight Apollo-Soyuz the third stage of Saturn V was used to build the Spacelab. A careful calculation is required, to see wether is better use the wings up to the landing, like in the Shuttle, or use them only in supersonic phase and land using parachutes, retro-rockets, or a combination of them. To the new external tank design one or more thermal shields can be added, for a purpose to be explained later. Launch sequence will be as follows: SRB's work in the initial vertical and vertical to horizontal transition, as usual. Main body and ET enter in orbit. When orbit is OK main body detaches and reenters, as soon as possible. Using one or more ET a space station can be assembled.  When assembly is OK another launch will add solar panels and a rocket for power to reach escape velocity.
+
+2) Practical operation
+Main target of the system are materials. One target are precious materials like, for instance, rare earths, to be found on the moon. A charge of minerals is put in orbit, accelerates to escape velocity from the moon, and does a rendez-vous with the space station. The load, in the space station, is assembled in a pod with the thermal shield and guided to the Earth. The pod will be discussed in another section. Another target is to have materials arriving from the Moon to build and assemble something in Earth orbit. Since escape from the Moon is less expensive than Earth orbit, there is a real advantage. The technology of aero-capture is possible, again with materials put in a pod, guided to the Earth, and released when arriving, for the aero-capture maneuver.
+
+3) Orbit stabilisation
+The proposed orbit is not stable. In the space between Earth and Moon all orbits, more or less, are unstable. For instance all ascent stages of Apollo flights are fallen on the Moon. Two deliberately, for experiment purposes, and the remaining four for little gravitational perturbation. Only ascent stage of Apollo 10 has survived, because escaped from the Moon for a solar orbit, thanks to plenty of remaining fuel. 
+
