@@ -1,0 +1,5 @@
+Fundamental in Eeny,Meeny...
+
+ -  Robotical operation on the moon surface, for sample gathering, sorting and initial refinery.
+ -  Use of in-situ resources for pod chassis printing (regolith)
+ -  Gathering of the initial resource via ET cargo version for moon base bulding
