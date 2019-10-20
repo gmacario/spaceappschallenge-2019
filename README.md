@@ -14,7 +14,7 @@ This repository contains the artifacts produced by the "Moebius-Sail" project te
 |------------|-------------|------|--------------------------------------------|---------------|
 | Gianpaolo  | Macario     | [gmacario.github.io](https://gmacario.github.io/) | [@gmacario](https://github.com/gmacario) | @gmacario |
 | Gianfranco | Poncini     | [www.belinonda.it](http://www.belinonda.it/) | [@Muwattalli](https://github.com/Muwattalli) | @Togodumno |
-| Carlo      | Di Costanzo | -    | - | +39-327-1694837 |
+| Carlo      | Di Costanzo | -    | [@dicostanzocarlo84](https://github.com/dicostanzocarlo84) | +39-327-1694837 |
 | Demetrio   | Scuncia     | -    | - | +39-349-6000209 |
 | Nicol&ograve; | Lombardo | -    | [@naquola](https://github.com/naquola)     | @naquola        |
 | Riccardo   | Salgarella  | -    | [@salgherik](https://github.com/salgherik) | @salgherik      |
