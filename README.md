@@ -30,7 +30,7 @@ This repository contains the artifacts produced by the "Moebius-Sail" project te
 
 ## Copyright and License
 
-This project is licensed under an Open Source license - for details please see the `LICENSE` file.
+This project is licensed under an Open Source license - for details please see the [`LICENSE`](LICENSE) file.
 
 Copyright (C) 2019, [Gianpaolo Macario](http://gmacario.github.io/) and the other Team Members.
 
