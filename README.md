@@ -2,11 +2,11 @@
 
 This repository contains the artifacts produced by the "Moebius-Sail" project team during the [NASA International Space Apps Challenge 2019 held in Torino](https://2019.spaceappschallenge.org/locations/turin) from 19 to 20 October 2019.
 
-## The pitch
+## The Moebius-Sail pitch
 
 [Link to the slide deck](https://slides.com/gianpaolomacario/moebius-sail/fullscreen?token=NgdlLPBl)
 
-## The Moebius-Sail Team
+## The Moebius-Sail team
 
 ![Moebius-Sail Team](images/2019-10-19-team.jpg)
 
