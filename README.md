@@ -18,9 +18,6 @@ This repository contains the artifacts produced by the "Moebius-Sail" project te
 | Demetrio   | Scuncia     | -    | - | +39-349-6000209 |
 | Nicol&ograve; | Lombardo | -    | [@naquola](https://github.com/naquola)     | @naquola        |
 | Riccardo   | Salgarella  | -    | [@salgherik](https://github.com/salgherik) | @salgherik      |
-| -          | -           | -    | -                                          | -               |
-| Valerio    | Sacchetto   | -    | [@zakkos](https://github.com/zakkos)       | +39-347-6548260 |
-| Gloria     | Puppi       | -    | [@gloryp](https://github.com/gloryp)       | @Gloria_Py      |
 
 ## Other links
 
