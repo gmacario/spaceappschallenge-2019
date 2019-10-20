@@ -4,7 +4,8 @@ This repository contains the artifacts produced by the "Moebius-Sail" project te
 
 ## The Moebius-Sail project
 
-* [Link to the slide deck](https://slides.com/gianpaolomacario/moebius-sail/fullscreen?token=NgdlLPBl)
+* [Moebius-Sail Landing Page](https://gmacario.github.io/spaceappschallenge-2019/)
+* [The slide deck presented on 2019-10-20](https://gmacario.github.io/spaceappschallenge-2019/moebius-sail.html)
 * [Bibliography](bibliography.md)
 
 ## The Moebius-Sail team
@@ -22,11 +23,8 @@ This repository contains the artifacts produced by the "Moebius-Sail" project te
 
 ## Other links
 
-* [Moebius-Sail - Landing Page](http://www.moebius-sail.co/)
-* [NASA International Space Apps Challenge 2019](https://www.spaceappschallenge.org/)
-* [The Moebius Sail Team ad SpaceAppChallenge.org](https://2019.spaceappschallenge.org/challenges/our-moon/eeny-meeny-miney-sample/teams/moebius-sail/project)
-* [Join the Telegram Group](https://t.me/joinchat/CTVnjReaQF0oVPnUsCVS7g)
-* [Edit Deck: moebius-sail](https://slides.com/gianpaolomacario/moebius-sail/edit)
+* [The Moebius Sail project on SpaceAppChallenge.org](https://2019.spaceappschallenge.org/challenges/our-moon/eeny-meeny-miney-sample/teams/moebius-sail/project)
+* [NASA International Space Apps Challenge](https://www.spaceappschallenge.org/)
 
 ## Copyright and License
 
